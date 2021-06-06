@@ -1,0 +1,64 @@
+Package: com.alkurdi.focoshack
+Name: focoshack
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: Add source https://cydiakurd.tk/
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack::inshot
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.focos.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.focos.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.focos.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.focos/icon.png
+Version: 1.0
+Installed-Size: 264
+Filename: ./pkg/com.alkurdi.focoshack_1.0_iphoneos-arm.deb
+Size: 4974
+MD5sum: 6b1cebb10a3cc7e41c4a39cf912b7d9a
+SHA1: b92704015ab7ee0015b4fc7df834175201f52bff
+SHA256: 391fc8137a34fa7059962d0a04c59f951604c019482b7e6b34a1a38f6864d6b5
+
+
+Package: com.alkurdi.inshothack
+Name: inshothack
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: Inshot Pro Activation
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.inshot.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.inshot.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.inshot.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.inshot/icon.png
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack::inshot
+Version: 1.0
+Installed-Size: 264
+Filename: ./pkg/com.alkurdi.inshothack_1.0_iphoneos-arm.deb
+Size: 4986
+MD5sum: bc7b33398d72f3353e5c7a7accd2dc43
+SHA1: fe34889831bbba23016e732ddb39232b202f859e
+SHA256: 927fcddc28160162211b640183bec172ba65fdae355ec20a58c18e3f0d6b415e
+
+
+Package: com.alkurdi.framehack
+Architecture: iphoneos-arm
+Maintainer: Ahmed AL Kurdi  <ahmadsorann@gmail.com>
+Depends: mobilesubstrate
+Section: Tweaks
+Description: frame app hack latest version 
+Author: Ahmed AL Kurdi  <ahmadsorann@gmail.com>
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.frame.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.frame/icon.png
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.frame.json
+Name: Frames Hack 2021
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.frame.json
+Tags: compatible_min::ios11.0, compatible_max::ios15.0
+Version: 1.0
+Installed-Size: 264
+Filename: ./pkg/com.alkurdi.framehack_1.0_iphoneos-arm.deb
+Size: 5038
+MD5sum: 6c3675bf858b373014f472d6c80d82e0
+SHA1: e4fd76463a098ae5f1bdcd9ae7cf5bdb3c1a51dc
+SHA256: 2d4a0d762f3787ec91ed9c64ccc0bd932ff346e1878ec55bdcdfeec79a477d77
