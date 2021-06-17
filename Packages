@@ -1,3 +1,24 @@
+Package: com.alkurdi.artleaphack
+Name: ArtLeap Hack 2021
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: Subscription Active 
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.artleaphack.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.artleaphack.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.artleaphack.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.artleaphack/icon.png
+Version: 1.0
+Installed-Size: 404
+Filename: ./pkg/com.alkurdi.artleaphack_1.0_iphoneos-arm.deb
+Size: 65418
+MD5sum: 938c4936b85e01db2f4cca6b08f62c2a
+SHA1: 615d74c368d9da5ab6cb0294e34d539b1f10168a
+SHA256: 224f2661bbf8d4087f64cb84fbb6fbeb7ce4c6a0c50c8e57c7d16b17fd36952c
+
 Package: com.alkurdi.funmatehack
 Name: Funimate Hack 2021
 Author: alkurdi <ahmadsorann@gmail.com>
