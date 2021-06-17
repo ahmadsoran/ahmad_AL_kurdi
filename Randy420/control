@@ -1,9 +1,0 @@
-Package: com.alkurdi.vivacuthack
-Name: vivacuthack
-Author: alkurdi <ahmadsorann@gmail.com>
-Description: Follow on insta CYDIA_KURD_SOURCE
-Depends: mobilesubstrate
-Maintainer: alkurdi <ahmadsorann@gmail.com>
-Architecture: iphoneos-arm
-Section: Tweaks
-Version: 0.0.1

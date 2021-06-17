@@ -1,3 +1,24 @@
+Package: com.alkurdi.funmatehack
+Name: FunMate Hack 2021
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: Pro Active
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.funmatehack.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.funmatehack.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.funmatehack.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.funmatehack/icon.png
+Version: 1.0
+Installed-Size: 136
+Filename: ./pkg/com.alkurdi.funmatehack_1.0_iphoneos-arm.deb
+Size: 3848
+MD5sum: b4bbf418c588c3438a27af96b7713a56
+SHA1: 1c723dd1a2f3dece71e04b31eb89e79ccae156e7
+SHA256: cc3ede70761b9f053aedb5d82950fc1cfb786b9e3e6cdf9a47765955a619c08c
+
 Package: com.alkurdi.vivacuthack
 Name: VivaCut Hack 2021
 Author: alkurdi <ahmadsorann@gmail.com>
