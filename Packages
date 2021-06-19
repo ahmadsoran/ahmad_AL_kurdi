@@ -1,3 +1,24 @@
+Package: com.alkurdi.youcammakeup
+Name: YouCam Makeup Hack 2021
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: Subscription Active 
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.youcammakeup.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.youcammakeup.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.youcammakeup.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.youcammakeup/icon.png
+Version: 1.0
+Installed-Size: 404
+Filename: ./pkg/com.alkurdi.youcammakeup_1.0_iphoneos-arm.deb
+Size: 67028
+MD5sum: 3ce4a905fc591dbcb4b6d0dfde5a0a96
+SHA1: cb57b92f46bc7ceae688084dcdfb89a81960a88b
+SHA256: 5805f1876453238b77c5375d8dc64c9939354d226eb2d7a9e10d5dbdd337086b
+
 Package: com.alkurdi.artleaphack
 Name: ArtLeap Hack 2021
 Author: alkurdi <ahmadsorann@gmail.com>
