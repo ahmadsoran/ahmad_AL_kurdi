@@ -1,3 +1,24 @@
+Package: com.alkurdi.calmhack
+Name: Calm Hack 2021
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: Subscription Active
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.calmhack.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.calmhack.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.calmhack.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.calmhack/icon.png
+Version: 1.0
+Installed-Size: 404
+Filename: ./pkg/com.alkurdi.calmhack_1.0_iphoneos-arm.deb
+Size: 66800
+MD5sum: df2c91fbdec8e5bb136fd7a084bbb645
+SHA1: 40d45ce5cb964fad2002f42b4a75136e72e55336
+SHA256: 77496cf7956c4fb6a425c8aa35d94ce535c543468d21566221c20047db6029bd
+
 Package: com.alkurdi.youcammakeup
 Name: YouCam Makeup Hack 2021
 Author: alkurdi <ahmadsorann@gmail.com>
