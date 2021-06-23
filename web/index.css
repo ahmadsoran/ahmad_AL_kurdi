@@ -76,6 +76,49 @@ h1, h2, h3, h4, h5, h6, p {
     display: inline-block;
 }
 
+.menu-btn {
+   background-color: #454545;
+   color: white;
+   padding: 16px;
+   font-size: 10px;
+   border: solid;
+   border-radius: 10px;
+   margin-top: 10px;
+   margin-right: 20px;
+}
+.dropdown-menu {
+   position: relative;
+   display: inline-block;
+   
+}
+.menu-content {
+   display: none;
+   position: absolute;
+   background-color: #454545;
+   min-width: 160px;
+   z-index: 1;
+   border-radius: 10px;
+   
+
+   
+}
+.links {
+   color: rgb(255, 255, 255);
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+   font-size: 10px;
+   border-radius: 10px;
+   
+   
+}
+.links:hover {
+   background-color: #818181;
+}
+.dropdown-menu:hover .menu-btn {
+   background-color: #000000;
+}
+
 .card > p {
     color: white;
     bottom: 15px;
