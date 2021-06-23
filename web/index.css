@@ -6,7 +6,6 @@
     font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Helvetica", sans-serif;
     margin-top: 20px;
     margin-bottom: 20px;
-
 }
 
 @media only screen and (max-width: 600px) {
@@ -18,6 +17,7 @@
         width: calc(100vw - 60px);
     }
 }
+
 @media only screen and (min-width: 601px) {
     .body {
         width: 500px;
@@ -29,7 +29,13 @@
     }
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     margin: 2px;
 }
 
@@ -51,7 +57,7 @@ h1, h2, h3, h4, h5, h6, p {
     -webkit-overflow-scrolling: touch;
 }
 
-.scroll_view > .card {
+.scroll_view>.card {
     background-color: #ccc;
     background-position: center;
     background-repeat: no-repeat;
@@ -66,7 +72,7 @@ h1, h2, h3, h4, h5, h6, p {
     display: inline-block;
 }
 
-.scroll_view > .img_card {
+.scroll_view>.img_card {
     background-color: #ccc;
     width: 250px;
     margin: 5px;
@@ -77,55 +83,57 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .menu-btn {
-   background-color: #454545;
-   color: white;
-   padding: 16px;
-   font-size: 10px;
-   border: solid;
-   border-radius: 10px;
-   margin-top: 10px;
-   margin-right: 20px;
+    background-color: #000000e7;
+    color: white;
+    padding: 16px;
+    font-size: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: auto;
 }
+
 .dropdown-menu {
-   position: relative;
-   display: inline-block;
-   
+    position: relative;
+    display: inline-block;
+    margin-top: 10px;
 }
+
 .menu-content {
-   display: none;
-   position: absolute;
-   background-color: #454545;
-   min-width: 160px;
-   z-index: 1;
-   border-radius: 10px;
-   
-
-   
+    display: none;
+    position: absolute;
+    background-color: #000000b6;
+    min-width: 160px;
+    z-index: 1;
+    border-radius: 10px;
+    margin-top: 5px;
 }
+
 .links {
-   color: rgb(255, 255, 255);
-   padding: 12px 16px;
-   text-decoration: none;
-   display: block;
-   font-size: 10px;
-   border-radius: 10px;
-   
-   
-}
-.links:hover {
-   background-color: #818181;
-}
-.dropdown-menu:hover .menu-btn {
-   background-color: #000000;
+    color: rgb(255, 255, 255);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 10px;
+    border-radius: 10px;
 }
 
-.card > p {
+.links:hover {
+    background-color: #818181;
+}
+
+.dropdown-menu:hover .menu-btn {
+    background-color: #000000;
+}
+
+.card>p {
     color: white;
     bottom: 15px;
     left: 15px;
     font-size: 0px;
     position: absolute;
-    text-shadow: 0 0 0px rgba(0,0,0,0.8); /*文字阴影*/
+    text-shadow: 0 0 0px rgba(0, 0, 0, 0.8);
+    /*文字阴影*/
 }
 
 .center {
@@ -146,7 +154,8 @@ h1, h2, h3, h4, h5, h6, p {
     text-decoration: none;
 }
 
-.add_sileo:hover, a:hover {
+.add_sileo:hover,
+a:hover {
     opacity: 0.8;
     cursor: pointer;
 }
@@ -155,7 +164,7 @@ h1, h2, h3, h4, h5, h6, p {
     margin-bottom: 40px;
 }
 
-.package > img {
+.package>img {
     border-radius: 20px;
     width: 75px;
     height: 75px;
@@ -176,12 +185,12 @@ h1, h2, h3, h4, h5, h6, p {
     color: #999;
 }
 
-.cell > .title {
+.cell>.title {
     float: left;
     color: #999;
 }
 
-.cell > .text {
+.cell>.text {
     float: right;
 }
 
@@ -194,12 +203,15 @@ h3 {
     margin-top: 20px;
 }
 
-.subtle_link, .subtle_link > div > div, .subtle_link > div > div > p {
+.subtle_link,
+.subtle_link>div>div,
+.subtle_link>div>div>p {
     text-decoration: none;
     color: black;
 }
 
-.subtle_link:hover, .subtle_link > *:hover {
+.subtle_link:hover,
+.subtle_link>*:hover {
     opacity: 0.8;
 }
 
@@ -234,7 +246,7 @@ h3 {
 
 .nav_btn {
     width: 50%;
-    display:inline;
+    display: inline;
     text-align: center;
     color: #999;
     font-weight: 500;
@@ -250,14 +262,15 @@ a {
     text-decoration: none;
 }
 
-.table-btn, .table-btn > div {
+.table-btn,
+.table-btn>div {
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .table-btn:after {
     content: "›";
-    font-size:30px;
+    font-size: 30px;
     transform: translateY(-40px);
     float: right;
 }
@@ -267,8 +280,9 @@ a {
         background: #161616;
         color: white;
     }
-
-    .subtle_link, .subtle_link > div > div, .subtle_link > div > div > p {
+    .subtle_link,
+    .subtle_link>div>div,
+    .subtle_link>div>div>p {
         color: white;
     }
 }
