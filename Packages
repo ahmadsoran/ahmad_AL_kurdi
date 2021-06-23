@@ -1,3 +1,24 @@
+Package: com.alkurdi.airbrushhack
+Name: AirBrush Hack 2021
+Author: alkurdi <ahmadsorann@gmail.com>
+Description: subscription active
+Depends: mobilesubstrate
+Maintainer: alkurdi <ahmadsorann@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Tags: compatible_min::ios11.0, compatible_max::ios15.0,hack
+Sileodepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.airbrushhack.json
+Moderndepiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/native/com.alkurdi.airbrushhack.json
+Depiction: https://cydia4kurd.github.io/ahmad_AL_kurdi/depiction/web/com.alkurdi.airbrushhack.html
+Icon: https://cydia4kurd.github.io/ahmad_AL_kurdi/assets/com.alkurdi.airbrushhack/icon.png
+Version: 1.0
+Installed-Size: 404
+Filename: ./pkg/com.alkurdi.airbrushhack_1.0_iphoneos-arm.deb
+Size: 66548
+MD5sum: 98ddc762e48b9dee67b9280bc0d75deb
+SHA1: 0039effd9a6eff4e6f91f19937e5d1fac50f41be
+SHA256: e318b3e2fb638cd0fbcc13360e9bb3b772387ef09af4a694019901c62032e9d3
+
 Package: com.alkurdi.calmhack
 Name: Calm Hack 2021
 Author: alkurdi <ahmadsorann@gmail.com>
