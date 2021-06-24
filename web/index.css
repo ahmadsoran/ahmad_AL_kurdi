@@ -82,6 +82,17 @@ p {
     display: inline-block;
 }
 
+button {
+    background-color: rgba(0, 17, 255, 0.904);
+    border-radius: 10px;
+    border: none;
+    margin-left: 20px;
+}
+
+button:hover {
+    background-color: rgba(177, 201, 247, 0.753);
+}
+
 .menu-btn {
     background-color: #000000e7;
     color: white;
@@ -216,7 +227,7 @@ h3 {
 }
 
 .green {
-    color: #00b90c;
+    color: #22cc00;
 }
 
 .red {
