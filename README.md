@@ -1,2 +1,2 @@
-# Cydia Repo https://cydia4kurd.github.io/ahmad_AL_kurdi/
+# Cydia Repo https://ahmadsoran.github.io/ahmad_AL_kurdi/
 
